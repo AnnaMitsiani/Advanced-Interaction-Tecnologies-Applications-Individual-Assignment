@@ -34,3 +34,6 @@ Task 2.: Αρχικά μελέτησα το κεφάλαιο 16 του βιβλ�
 Για το παραδοτέο 1:
 1)https://processing.org/tutorials/video#live-video
 2) βιβλίο του Daniel Shiffman από το eclass
+3) https://www.youtube.com/watch?v=nJWV7X7df9w
+4) https://www.youtube.com/watch?v=lJoUhLyI1TM
+5) 
