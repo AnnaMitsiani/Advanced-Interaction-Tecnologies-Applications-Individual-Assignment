@@ -34,7 +34,7 @@ Task 2.: Αρχικά μελέτησα το κεφάλαιο 16 του βιβλ�
 # Sources
 Για το παραδοτέο 1:
 
-1)https://processing.org/tutorials/video#live-video
+1) https://processing.org/tutorials/video#live-video
 
 2) βιβλίο του Daniel Shiffman από το eclass
 
