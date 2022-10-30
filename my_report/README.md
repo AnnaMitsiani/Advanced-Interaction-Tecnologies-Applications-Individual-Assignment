@@ -34,9 +34,20 @@ Task 2.: Αρχικά μελέτησα το κεφάλαιο 16 του βιβλ�
 # Sources
 Για το παραδοτέο 1:
 1)https://processing.org/tutorials/video#live-video
+
 2) βιβλίο του Daniel Shiffman από το eclass
+
 3) https://www.youtube.com/watch?v=nJWV7X7df9w
+
 4) https://www.youtube.com/watch?v=lJoUhLyI1TM
+
 5) https://processing.org/examples/embeddedlinks.html
+
 6) https://www.bing.com/search?q=rotate+image+on+processing&cvid=33e1dfbde640419e9ef0397169239199&aqs=edge..69i57j0l8.17086j0j1&pglt=2083&FORM=ANNTA1&PC=U531
+
+7) https://forum.processing.org/one/topic/rotate-image.html
+
+8) https://medium.com/a-curious-beginners-guide-to-building-your-first/my-first-ar-exploration-with-processing-71ffaf3e7418
+
+9) https://github.com/nyatla/NyARToolkit-for-Processing/blob/master/README.EN.md
 
