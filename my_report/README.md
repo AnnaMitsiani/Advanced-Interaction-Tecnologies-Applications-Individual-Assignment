@@ -37,6 +37,10 @@ Task 5.: Για το 5ο ζητούμενο του παραδοτέου επεξ
 # Conclusions
 
 
+
+https://user-images.githubusercontent.com/101416820/199810185-218a81fe-5ceb-48a0-a6e7-4f8b4e2458af.mp4
+
+
 # Sources
 Για το παραδοτέο 1:
 
