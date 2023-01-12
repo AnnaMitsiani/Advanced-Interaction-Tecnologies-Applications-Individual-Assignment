@@ -95,6 +95,6 @@ https://user-images.githubusercontent.com/101416820/206797776-ef2a1c8f-7cd4-4ea6
 
 Για το παραδοτέο 3:
 
-1) https://www.youtube.com/watch?v=tJ0aZzST-N4
+1)https://www.youtube.com/watch?v=tJ0aZzST-N4
 
 2)βιβλίο του Daniel Shiffman από το eclass
